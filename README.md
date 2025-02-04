@@ -1,6 +1,6 @@
 # Customer-churn-prediction
 
-ustomer churn is a key business problem where customers discontinue services, leading to revenue loss. This project builds a machine learning pipeline that:
+customer churn is a key business problem where customers discontinue services, leading to revenue loss. This project builds a machine learning pipeline that:
 
 Preprocesses the dataset: Handles missing values and encodes categorical features.
 Performs feature selection: Identifies key customer attributes influencing churn.
